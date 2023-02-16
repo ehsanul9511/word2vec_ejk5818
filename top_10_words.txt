@@ -1,0 +1,44 @@
+Word: cat  Position in vocabulary: 6191
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                               dog              0.917732
+                                             tabby              0.893648
+                                           hamster              0.885566
+                                            kitten              0.874972
+                                            feline              0.874483
+                                             snake              0.872463
+                                            parrot              0.872156
+                                           raccoon              0.869020
+                                             puppy              0.866228
+                                            piglet              0.863186
+
+Word: she  Position in vocabulary: 80
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                               She              0.909498
+                                           herself              0.863756
+                                              hers              0.831932
+                                               her              0.831674
+                                                he              0.798577
+                                            mother              0.734993
+                                           husband              0.734222
+                                                me              0.721548
+                                            Keesha              0.710276
+                                     mother-in-law              0.709600
+
+Word: like  Position in vocabulary: 103
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                             crazy              0.779711
+                                             weird              0.777976
+                                            liking              0.749528
+                                         Sometimes              0.747938
+                                             scary              0.735062
+                                             wacky              0.726911
+                                             fussy              0.725743
+                                        everywhere              0.725625
+                                           pretend              0.724920
+                                            cringe              0.724499
